@@ -2,4 +2,4 @@
 public key, settings, etc.
 
 ## update custom theme
-	curl -L https://raw.githubusercontent.com/martinveverka/profile/master/tools/update-theme.sh | sh
+	sh -c "$(curl -fsSL https://raw.githubusercontent.com/martinveverka/profile/master/tools/update-theme.sh)"
